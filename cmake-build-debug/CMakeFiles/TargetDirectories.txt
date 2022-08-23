@@ -1,0 +1,3 @@
+C:/Users/Dan/CLionProjects/key-logger/cmake-build-debug/CMakeFiles/key_logger.dir
+C:/Users/Dan/CLionProjects/key-logger/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dan/CLionProjects/key-logger/cmake-build-debug/CMakeFiles/rebuild_cache.dir
